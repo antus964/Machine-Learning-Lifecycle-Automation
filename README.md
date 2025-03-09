@@ -1,4 +1,4 @@
-# 🚀 PyCaret: Automating the Machine Learning Lifecycle
+# 🚀 Automating the Machine Learning Lifecycle
 
 ## 📌 Introduction
 
